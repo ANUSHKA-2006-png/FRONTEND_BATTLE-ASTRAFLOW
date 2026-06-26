@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astraflow-ai.example/sitemap.xml
