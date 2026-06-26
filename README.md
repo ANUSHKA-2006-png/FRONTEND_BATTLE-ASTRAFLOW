@@ -4,7 +4,7 @@ A modern, responsive AI SaaS landing page built for the **Frontend Battle Phase 
 
 ## 🌐 Live Demo
 
-**Website:** https://YOUR-VERCEL-URL.vercel.app
+**Website:** https://frontend-battle-astraflow-git-main-anushkas-projects-e8dcd961.vercel.app/
 
 **GitHub Repository:** https://github.com/ANUSHKA-2006-png/FRONTEND_BATTLE-ASTRAFLOW
 
@@ -126,22 +126,7 @@ http://127.0.0.1:4173
 
 ✅ sitemap.xml
 
----
 
-## 📸 Preview
-
-*(Add screenshots of your landing page here.)*
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── pricing.png
-└── mobile.png
-```
-
----
 
 ## 🌍 Deployment
 
@@ -149,7 +134,7 @@ This project is deployed on **Vercel**.
 
 Live URL:
 
-https://YOUR-VERCEL-URL.vercel.app
+https://frontend-battle-astraflow-git-main-anushkas-projects-e8dcd961.vercel.app/
 
 ---
 
